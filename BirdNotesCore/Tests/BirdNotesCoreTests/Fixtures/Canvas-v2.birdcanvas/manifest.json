@@ -1,0 +1,22 @@
+{
+  "createdAt" : "2025-04-05T07:00:00Z",
+  "documentType" : "infiniteCanvas",
+  "height" : 16384,
+  "id" : "44444444-4444-4444-4444-444444444444",
+  "modifiedAt" : "2025-04-05T07:20:00Z",
+  "schemaVersion" : 2,
+  "tileConfiguration" : {
+    "columns" : 16,
+    "rows" : 16,
+    "tileSize" : 1024
+  },
+  "title" : "Golden Canvas v2",
+  "viewport" : {
+    "center" : {
+      "x" : 4096,
+      "y" : 3072
+    },
+    "zoomScale" : 0.8
+  },
+  "width" : 16384
+}

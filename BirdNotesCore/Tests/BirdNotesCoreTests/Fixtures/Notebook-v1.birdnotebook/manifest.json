@@ -1,0 +1,11 @@
+{
+  "createdAt" : "2024-01-02T10:00:00Z",
+  "documentType" : "notebook",
+  "id" : "11111111-1111-1111-1111-111111111111",
+  "modifiedAt" : "2024-01-02T10:30:00Z",
+  "pageOrder" : [
+    "11111111-1111-1111-1111-111111111112"
+  ],
+  "schemaVersion" : 1,
+  "title" : "Golden Notebook v1"
+}

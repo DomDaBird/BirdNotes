@@ -1,0 +1,25 @@
+[
+  {
+    "center" : {
+      "x" : 1024,
+      "y" : 768
+    },
+    "createdAt" : "2025-04-05T07:00:00Z",
+    "id" : "44444444-4444-4444-4444-444444444445",
+    "kind" : "text",
+    "modifiedAt" : "2025-04-05T07:20:00Z",
+    "rotation" : 0,
+    "size" : {
+      "height" : 120,
+      "width" : 360
+    },
+    "strokeColor" : {
+      "alpha" : 1,
+      "blue" : 0.18,
+      "green" : 0.12,
+      "red" : 0.08
+    },
+    "strokeWidth" : 3,
+    "text" : "Golden Canvas"
+  }
+]

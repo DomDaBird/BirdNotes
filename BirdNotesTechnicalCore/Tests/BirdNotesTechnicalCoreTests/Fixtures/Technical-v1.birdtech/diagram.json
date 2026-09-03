@@ -1,0 +1,33 @@
+{
+  "schemaVersion" : 1,
+  "domain" : "general",
+  "canvasSize" : {
+    "width" : 2000,
+    "height" : 2000
+  },
+  "grid" : {
+    "isVisible" : true,
+    "isSnappingEnabled" : true,
+    "spacing" : 10
+  },
+  "layers" : [
+    {
+      "id" : "33333333-3333-3333-3333-333333333333",
+      "name" : "Standard",
+      "isVisible" : true,
+      "isLocked" : false
+    }
+  ],
+  "elements" : [
+
+  ],
+  "connections" : [
+
+  ],
+  "labels" : [
+
+  ],
+  "constraints" : [
+
+  ]
+}

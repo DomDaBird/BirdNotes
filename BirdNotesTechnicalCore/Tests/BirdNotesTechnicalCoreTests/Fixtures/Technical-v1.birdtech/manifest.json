@@ -1,0 +1,14 @@
+{
+  "schemaVersion" : 1,
+  "documentID" : "33333333-3333-3333-3333-333333333334",
+  "title" : "Golden Technical v1",
+  "domain" : "general",
+  "createdAt" : "2026-08-29T07:00:00Z",
+  "modifiedAt" : "2026-08-29T07:00:00Z",
+  "writerVersion" : "3.0.0",
+  "moduleVersions" : {
+    "birdnotes.general" : "1.0.0"
+  },
+  "diagramSHA256" : "9dbf1ad9999e747dc163794b50448e7348148281cc43128f0e1377995e29ac6c",
+  "calculationsSHA256" : "87421ac9193975be4a3ecce0a7b5b2230ca7bad16ab6c4510a65266a27c95390"
+}

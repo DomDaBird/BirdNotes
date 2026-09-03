@@ -1,0 +1,11 @@
+{
+  "createdAt" : "2025-02-03T09:00:00Z",
+  "id" : "22222222-2222-2222-2222-222222222222",
+  "isBookmarked" : true,
+  "isEmpty" : false,
+  "modifiedAt" : "2025-02-03T09:45:00Z",
+  "paperFormat" : "a3",
+  "paperOrientation" : "landscape",
+  "paperStyle" : "cornell",
+  "transcribedText" : "Spannung gleich Widerstand mal Strom"
+}
