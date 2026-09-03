@@ -104,4 +104,4 @@ Weitere technische Informationen:
 
 ## Lizenz
 
-Für das Repository wurde noch keine Open-Source-Lizenz festgelegt. Der öffentlich sichtbare Quellcode darf daher nicht automatisch als frei nutzbar oder veränderbar verstanden werden.
+BirdNotes steht unter der [MIT-Lizenz](LICENSE). Sie erlaubt die Nutzung, Änderung und Weitergabe des Projekts unter Beibehaltung des Lizenz- und Urheberrechtshinweises.
